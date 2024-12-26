@@ -1,0 +1,17 @@
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.cab
+*.msi
+*.msm
+*.msp
+*.log
+ScaffoldingReadMe.txt
+/x64
+/Project
