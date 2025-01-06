@@ -2,4 +2,4 @@
 
 Demonstrating control flow obfuscation through a CTF challenge for `BackDoorCTF-24`.
 
-Accompanying blog post -> <a href="https://21verses.blog/2024/12/27/index/">Control Flow Obfuscation using VEH</a>
+Accompanying blog post -> <a href="https://21verses.blog/2024/12/29/index/">Control Flow Obfuscation using VEH</a>
